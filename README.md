@@ -1,6 +1,6 @@
 Hi, I'm Lakshmi Shree Balakrishnan 👋
 
-Cybersecurity GRC | ISO 27001 · NIS2 · DORA | Blue Team foundations 📍 Brussels, Belgium
+Cybersecurity GRC | ISO 27001 · NIS2 · DORA | Blue Team 📍 Brussels, Belgium
 
 I'm moving into Governance, Risk and Compliance (GRC), and I'm currently training on BeCode's Cybersecurity bootcamp in Brussels.
 
