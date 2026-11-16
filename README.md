@@ -7,7 +7,9 @@ I'm moving into Governance, Risk and Compliance (GRC), and I'm currently trainin
 My path has three chapters, and each one feeds the next:
 
 Engineering: an M.Tech in Nanoelectronics taught me how systems are built, and how they fail.
+
 Law publishing: as a Production Editor on law titles, I read legal text closely every day and ran publication projects from start to finish, coordinating authors and production teams to deadline.
+
 Cybersecurity: hands-on defensive work, so that when I assess a control, I know what it takes to make it work in practice.
 
 I'm interested in the space where regulation meets real systems: turning NIS2, DORA and ISO 27001 requirements into controls, and checking those controls with real evidence.
